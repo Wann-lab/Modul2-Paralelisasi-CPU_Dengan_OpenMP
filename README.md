@@ -1,0 +1,1 @@
+# Modul2-Paralelisasi-CPU_Dengan_OpenMP
